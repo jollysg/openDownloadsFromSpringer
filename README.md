@@ -1,5 +1,5 @@
 # Download Open Publications From Springer
-This package is a crude way of downloading some open pdf documents from Springer publications for educational purpose. The script has been tested with Python version 2.7.12 on MacOS. It has NOT been tested on Python 3.x.
+This package is a crude way of downloading some open pdf documents from Springer publications for educational purpose. The script has been tested with Python version 2.7.12 on MacOS/Unix. It has NOT been tested on Python 3.x.
 
 It requires following python libraries to be installed (using 'pip install xxx' or 'sudo apt-get install' ):
 xlrd, urllib2, urllib, urlparse, os.
